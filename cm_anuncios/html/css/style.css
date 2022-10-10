@@ -1,0 +1,49 @@
+body {
+    background-color: transparent !important;
+}
+
+.template, .anuncios {
+    display: none;
+}
+
+.cm-anuncios {
+    height: 190px;
+    width: 540px;
+    position: absolute;
+    right: 33%;
+    bottom:0%;
+    display: flex;
+
+}
+
+.anuncios {
+    padding: 80px 0px 0px 165px;
+    right: 500px;
+    width: 500px;
+    border-radius: 10px;
+    font: caption;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.lspd {
+    background-image:url("../imagenes/lspd.png");
+    color: #ffffff;
+}
+
+.ems {
+    background-image:url("../imagenes/ems.png");
+    color: #ffffff;
+}
+
+.mecanico {
+    background-image:url("../imagenes/custom.png");
+    color: #ffffff;
+}
+
+.burgershot {
+    background-image:url("../imagenes/burgershot.png");
+    color: #ffffff;
+}
+
